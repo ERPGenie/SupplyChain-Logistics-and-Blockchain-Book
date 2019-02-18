@@ -8,6 +8,7 @@ Kevin Wilson <kevin@erpgenie.com>
 :homepage: http://www.erpgenie.com
 
 == PREFACE
+Who can we get to write up an intro?
 
 = Supply Chain Logistics Overview
 * Industry challenges
