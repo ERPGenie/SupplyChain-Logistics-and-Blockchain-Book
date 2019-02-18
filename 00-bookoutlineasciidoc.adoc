@@ -11,23 +11,66 @@ Kevin Wilson <kevin@erpgenie.com>
 
 = Supply Chain Logistics Overview
 * Industry challenges
+* Amazon Effect - B2B expections matching consumer expectations
+* Impact of IOT and Machine Learning
 
 = Understanding Supply Chain Track and Trace
+* Serialization
+* Batch Traceability
+* Parcel Track and Trace
+* Proactive Exception Management
+* End-to-End visibility
+* Omni-chanel Customer Experience
 
 = Understanding the integration of EDI and the Supply Chain 
+* System to System Automation
+* ANSI X12 and EDIFACT standards
+* Supplier EDI
+* Customer EDI
+* Transportation EDI
 
 = Blockchain Overview
 * In a nutshell - What is the Blockchain
+* Types of Blockhain
 * Bitcoin and Blockchain
 * Smart Contracts
 * Whats the big deal with Blockchain
 
 = Manufacturing and the Blockchain
+* Raw material procurement
+* Production Order
+* Semi-finished and Finished Product
+* Product Storage
+* Cold-Chain
 
 = Inbound Logistics with Blockchain
+* Purchase Orders and Confirmations
+* Inbound Advanced Ship Notice (ASN)
+* Carrier Status Notifications
+* Carrier vs. Customer Delivery
+* Key Performance Indicators (KPI)
+* Blockchain tracking
 
 = Outbound Logistics with Blockchain
+* Sales Orders and Confirmations
+* Shipment and Delivery Management
+* Outbound Advanced Ship Notice (ASN)
+* Carrier Status Notifications
+* Key Performance Indicators (KPI)
+** DIFOT - Delivery In Full On Time
+* Blockchain tracking
 
-= 3rd Party Logistics with Blockchain
+= 3^rd^ Party Logistics with Blockchain
+* Combination of Outbound and Inbound Logistics
+* Manage the customer experience 
+* Blockchain tracking
 
 = What are the advantages and pitfalls of Blockchain in the Supply Chain?
+* Immutable record
+* Permissioned Blockchain
+* Regulatory authority access
+* Standardised Supply Chain "Event" capture
+** Cross-border events
+* Know Your Customer (KYC) impact
+
+= Summary
