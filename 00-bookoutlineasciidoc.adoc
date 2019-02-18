@@ -1,0 +1,33 @@
+:stylesheet: css/asciidoctor.css
+:icons: font
+
+= Supply Chain Logistics and the Block Chain
+Kevin Wilson <kevin@erpgenie.com>
+:toc:
+:imagesdir: assets/images
+:homepage: http://www.erpgenie.com
+
+== PREFACE
+
+= Supply Chain Logistics Overview
+* Industry challenges
+
+= Understanding Supply Chain Track and Trace
+
+= Understanding the integration of EDI and the Supply Chain 
+
+= Blockchain Overview
+* In a nutshell - What is the Blockchain
+* Bitcoin and Blockchain
+* Smart Contracts
+* Whats the big deal with Blockchain
+
+= Manufacturing and the Blockchain
+
+= Inbound Logistics with Blockchain
+
+= Outbound Logistics with Blockchain
+
+= 3rd Party Logistics with Blockchain
+
+= What are the advantages and pitfalls of Blockchain in the Supply Chain?
