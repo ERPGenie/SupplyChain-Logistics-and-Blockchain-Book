@@ -66,6 +66,15 @@ Who can we get to write up an intro?
 * Manage the customer experience 
 * Blockchain tracking
 
+= Other Technologies working in tandem with the Supply Chain
+* Machine Learning
+* Artificial Intelligence
+* Internet of Things
+* Predictive Analysis
+
+= Industry Examples of Blockchain and the Supply Chain
+* What is happening out there? 
+
 = What are the advantages and pitfalls of Blockchain in the Supply Chain?
 * Immutable record
 * Permissioned Blockchain
