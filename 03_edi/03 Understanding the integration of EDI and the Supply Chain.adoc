@@ -1,0 +1,7 @@
+:stylesheet: css/asciidoctor.css
+:icons: font
+
+= 03 Understanding the integration of EDI and the Supply Chain 
+Kevin Wilson <kevin@erpgenie.com>
+:imagesdir: assets/images
+:homepage: http://www.erpgenie.com

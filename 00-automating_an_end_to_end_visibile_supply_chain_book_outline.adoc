@@ -1,6 +1,8 @@
 :stylesheet: css/asciidoctor.css
 :icons: font
 
+= Supply Chain Logistics Automated with end-to-end Visibility through adoption of Track and Trace, EDI and Blockchain
+
 = Supply Chain Logistics and the Block Chain
 Kevin Wilson <kevin@erpgenie.com>
 :toc:
