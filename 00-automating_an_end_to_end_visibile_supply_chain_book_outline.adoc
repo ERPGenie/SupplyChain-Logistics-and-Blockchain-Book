@@ -1,88 +1,142 @@
 :stylesheet: css/asciidoctor.css
 :icons: font
-
-= Supply Chain Logistics Automated with end-to-end Visibility through adoption of Track and Trace, EDI and Blockchain
-
-= Supply Chain Logistics and the Block Chain
+= Supply Chain Logistics Automated with end-to-end Visibility: Through the adoption of Track and Trace, EDI and Blockchain
+:favicon:
 Kevin Wilson <kevin@erpgenie.com>
-:toc:
+:toc: preamble
 :imagesdir: assets/images
+:description: A book on leveraging various new and old technologies to bring the Supply Chain Logistics process up to the new indsutry 4.0 world!
+:keywords: blockchain, supply chain, erpgenie, logistics, EDI, B2B, manufacturing, transportation, 3PL, carrier, IOT, supply chain visibility, SCEM
 :homepage: http://www.erpgenie.com
+:hardbreaks:
+:doctype: book
+:chapter-label: CHAPTER
+:appendix-caption: APPENDIX
 
-== PREFACE
-Who can we get to write up an intro?
+[colophon]
+(C) 2019 by ERPGenie.COM LLC
+Edited by The ERPGenie Github Community
+Published by Genie Press
+Printing and Binding by Lightning Source
 
-= 1 Supply Chain Logistics Overview
-* Industry challenges
-* Amazon Effect - B2B expections matching consumer expectations
-* Impact of IOT and Machine Learning
+[abstract]
+The Supply Chain has been heavily impacted by the 'Amazon Effect'. In this book we take a deep, real-life look at just what you can do to keep pace with the ever-increasing demands of the customer...
 
-= 2 Understanding Supply Chain Track and Trace
-* Serialization
-* Batch Traceability
-* Parcel Track and Trace
-* Proactive Exception Management
-* End-to-End visibility
-* Omni-chanel Customer Experience
+[dedication]
+== Dedication
+Who helped make this book possible
 
-= 3 Understanding the integration of EDI and the Supply Chain 
-* System to System Automation
-* ANSI X12 and EDIFACT standards
-* Supplier EDI
-* Customer EDI
-* Transportation EDI
+[PREFACE]
+== Preface
+SAP can write up the preface...
 
-= 4 Blockchain Overview
-* In a nutshell - What is the Blockchain
-* Types of Blockhain
-* Bitcoin and Blockchain
-* Smart Contracts
-* Whats the big deal with Blockchain
+Preamble: The Supply Chain has been heavily impacted by the 'Amazon Effect'. In this book we take a deep, real-life look at just what you can do to keep pace with the ever-increasing demands of the customer...
 
-= 5 Manufacturing and the Blockchain
-* Raw material procurement
-* Production Order
-* Semi-finished and Finished Product
-* Product Storage
-* Cold-Chain
+:sectnums: 2
+= Supply Chain Logistics Overview
 
-= 6 Inbound Logistics with Blockchain
-* Purchase Orders and Confirmations
-* Inbound Advanced Ship Notice (ASN)
-* Carrier Status Notifications
-* Carrier vs. Customer Delivery
-* Key Performance Indicators (KPI)
-* Blockchain tracking
+== Industry challenges
+* DIFOT
 
-= 7 Outbound Logistics with Blockchain
-* Sales Orders and Confirmations
-* Shipment and Delivery Management
-* Outbound Advanced Ship Notice (ASN)
-* Carrier Status Notifications
-* Key Performance Indicators (KPI)
-** DIFOT - Delivery In Full On Time
-* Blockchain tracking
+== Amazon Effect 
+* B2B expections matching consumer expectations
 
-= 8 3^rd^ Party Logistics with Blockchain
-* Combination of Outbound and Inbound Logistics
-* Manage the customer experience 
-* Blockchain tracking
+== Impact of IOT and Machine Learning
 
-= 9 Other Technologies working in tandem with the Supply Chain
-* Machine Learning
-* Artificial Intelligence
-* Internet of Things
-* Predictive Analysis
+= Understanding Supply Chain Track and Trace
+== Serialization
+== Batch Traceability
+== Parcel Track and Trace
+== Proactive Exception Management
+== End-to-End visibility
+== Omni-chanel Customer Experience
 
-= 10 Industry Examples of Blockchain and the Supply Chain
-* What is happening out there? 
+= Understanding the integration of EDI and the Supply Chain 
 
-= 11 What are the advantages and pitfalls of Blockchain in the Supply Chain?
+== System to System Automation
+== ANSI X12 and EDIFACT standards
+== Supplier EDI
+== Customer EDI
+== Transportation EDI
+
+= Blockchain Overview
+== In a nutshell - What is the Blockchain
+== Types of Blockhain
+== Bitcoin and Blockchain
+== Smart Contracts
+== Whats the big deal with Blockchain
+
+= Manufacturing and the Blockchain
+== Raw material procurement
+== Production Order
+== Semi-finished and Finished Product
+== Product Storage
+== Cold-Chain
+
+= Inbound Logistics with Blockchain
+== Purchase Orders and Confirmations
+== Inbound Advanced Ship Notice (ASN)
+== Carrier Status Notifications
+== Carrier vs. Customer Delivery
+== Key Performance Indicators (KPI)
+== Blockchain tracking
+
+= Outbound Logistics with Blockchain
+== Sales Orders and Confirmations
+== Shipment and Delivery Management
+== Outbound Advanced Ship Notice (ASN)
+== Carrier Status Notifications
+== Key Performance Indicators (KPI)
+* DIFOT - Delivery In Full On Time
+
+== Blockchain tracking
+
+= 3^rd^ Party Logistics with Blockchain
+== Combination of Outbound and Inbound Logistics
+== Manage the customer experience 
+== Blockchain tracking
+
+= Other Technologies working in tandem with the Supply Chain
+== Machine Learning
+== Artificial Intelligence
+== Internet of Things
+== Predictive Analysis
+
+= Industry Examples of Blockchain and the Supply Chain
+== What is happening out there? 
+
+= What are the advantages and pitfalls of Blockchain in the Supply Chain?
+== Advantages
 * Immutable record
 * Permissioned Blockchain
 * Regulatory authority access
 * Standardised Supply Chain "Event" capture
 ** Cross-border events
-* Know Your Customer (KYC) impact
+* Know Your Customer 
+What is know your customer?footnote:KYC[Know Your Customer]
 
-= 12 Summary
+== Pitfalls
+* Scalability
+* KYC
+* ((Immutability)) - ((User Privacy))
+
+= Summary
+== Key Points
+* Let's go through the important stuff again
+
+[appendix]
+== Appendix
+
+[appendix]
+== Appendix
+
+[glossary]
+== Glossary
+SAP EM:: SAP Event Management ^<<sap_em>>^
+
+[bibliography]
+== Bibliography
+- [[[sap_em,1]]] Kevin Wilson. SAP Event Management: SAP's best-kept secret. Genie Press. 2017
+
+[index]
+== Index

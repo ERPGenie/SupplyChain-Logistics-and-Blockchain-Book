@@ -1,0 +1,216 @@
+:stylesheet: css/asciidoctor.css
+:icons: font
+:linkattrs:
+:imagesdir: assets/images
+
+= Author Commands
+
+== Understanding Headings
+
+== Level 1 Section Title
+****
+== Level 1 Section Title
+****
+
+=== Level 2 Section Title
+****
+=== Level 2 Section Title
+****
+
+==== Level 3 Section Title
+****
+==== Level 3 Section Title
+****
+
+===== Level 4 Section Title
+****
+===== Level 4 Section Title
+****
+
+====== Level 5 Section Title
+****
+====== Level 5 Section Title
+****
+
+== Another Level 1 Section Title
+****
+== Another Level 1 Section Title
+****
+
+== Comment
+****
+//// Comment
+****
+
+== Quote
+****
+[quote]
+He said this +
+
+[quote, attribution, citation title and information]
+Quote or excerpt text
+****
+
+== Line Break
+****
+1st line +
+2nd line
+****
+
+== Bold a word
+****
+Type: \*bold* word +
+Output: *bold* word
+****
+
+== Bold a letter
+****
+Type: Bol\**d** a letter +
+Output: Bol**d** a letter
+****
+
+== Italics a word
+****
+Type: \_italics_ word +
+Output: _italics_ word
+****
+
+== Italics a letter
+****
+Type: Ital\__i__cs a letter +
+Output: Ital__i__cs a letter
+****
+
+== Subscript
+****
+Type: H\~2~O +
+Output: H~2~O
+****
+
+== Superscript
+****
+Type: E = MC\^2^ +
+Output: E = MC^2^
+****
+
+== Mark Element
+****
+<mark>mark element</mark>
+****
+
+== Unordered Lists
+****
+.Title
+* Entry 1 +
+** Nested 1a
+* Entry 2 +
+* Entry 3 + 
+****
+
+== Ordered Lists
+****
+. Entry 1
+.. Nested Entry 1a
+. Entry 2
+. Entry 3
+****
+
+== Checklist
+****
+* [*] checked
+* [x] also checked
+* [ ] not checked
+* normal list item
+****
+
+== Description List
+****
+[horizontal]
+CPU:: Central Processing Unit
+RAM:: Random Access Memory
+****
+
+== Q and A
+****
+[qanda]
+What is Asciidoctor?::
+  An implementation of the AsciiDoc processor in Ruby.
+What is the answer to the Ultimate Question?:: 42
+****
+
+== Tables
+****
+[.rolename]
+|===
+
+| Cell in column 1, row 1 | Cell in column 2, row 1 | Cell in column 3, row 1
+
+| Cell in column 1, row 2 | Cell in column 2, row 2 | Cell in column 3, row 2
+
+|===
+****
+
+== Horizontal Rule
+****
+---
+****
+
+== Page Break
+****
+\<<<
+****
+
+== Web Links
+****
+http://www.erpgenie.com[ERPGenie.COM, window="_blank"]
+****
+
+== Defining an Anchor 
+****
+\[#notice] +
+This paragraph gets a lot of attention.
+
+\[#bookmark-b]#Inline anchors can be applied to a phrase like this one.#
+****
+
+== Cross References
+****
+The section <<notice, Notice - See above>> describes important stuff.
+****
+
+== Images
+****
+image::coveridea1.jpg[]
+****
+
+****
+[#img-coveridea1] 
+.A Cover Idea
+[link=http://www.erpgenie.com] 
+image::coveridea1.jpg[Cover Idea,300,200] 
+****
+
+== Admonitions
+****
+WARNING: Warning +
+
+TIP: Tip +
+
+NOTE: Note +
+
+IMPORTANT: Important +
+
+CAUTION: Caution
+****
+
+****
+[IMPORTANT] 
+.Feeding the Werewolves
+==== 
+While werewolves are hardy community members, keep in mind the following dietary concerns:
+
+. They are allergic to cinnamon.
+. More than two glasses of orange juice in 24 hours makes them howl in harmony with alarms and sirens.
+. Celery makes them sad.
+====
+****
