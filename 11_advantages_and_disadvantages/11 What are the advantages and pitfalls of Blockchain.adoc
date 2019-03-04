@@ -1,1 +1,5 @@
 = 11 What are the advantages and pitfalls of Blockchain in the Supply Chain
+
+* In the area of supply chain, blockchain can support the tagging and tracing of fish and other types of food, documenting the identity of the exact supplier and tracking product all the way to when it hits the store and is purchased
+* blockchain can help to identify or prevent the distribution of counterfeit merchandise, especially drugs
+* trace the presence of conflict minerals all the way back to the mine. By establishing a mineral’s provenance, producers can accurately report on their purchases from legitimate suppliers

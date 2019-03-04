@@ -1,1 +1,6 @@
 = Industry Examples of Blockchain and the Supply Chain
+
+* Mastercard, Amazon and Accenture Partner To Establish Transparent Blockchain Supply Chain - https://www.forbes.com/sites/leslieankney/2019/02/25/accenture-mastercard-and-amazon-partner-to-establish-transparent-blockchain-supply-chain/#680916541f81
+* GS1 Will Have A Role To Play In Supply Chain Blockchain Applications - https://www.forbes.com/sites/stevebanker/2019/02/15/gs1-will-have-a-role-to-play-in-supply-chain-blockchain-applications/#1ca4fdc615dc 
+* IBM is piloting blockchain applications in part through the open-source initiative known as Hyperledger. Former IBMer Sloane Brakeville, now chief executive officer of Fr8 Network, Inc., said the logistics sector in particular stands to benefit from the technology. It could be applied to freight marketplaces to help carriers build full truckloads, handle disputes and speed up payments to drivers. - https://www.ibm.com/blockchain
+* How to Unleash Blockchain into Your Supply Chain - https://www.mhlnews.com/technology-automation/how-unleash-blockchain-your-supply-chain 
