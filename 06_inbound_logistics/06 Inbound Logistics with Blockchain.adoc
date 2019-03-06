@@ -1,1 +1,5 @@
 = Inbound Logistics with Blockchain
+
+== Sample Automated Inbound Logistics Process
+
+!(../assets/images/inboundlogistics.jpg)
