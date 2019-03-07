@@ -1,5 +1,8 @@
+:imagesdir: ../assets/images
 = Inbound Logistics with Blockchain
 
 == Sample Automated Inbound Logistics Process
 
-!(../assets/images/inboundlogistics.jpg)
+A high-level view of the process:
+
+
